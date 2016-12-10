@@ -1,5 +1,3 @@
-import re
-
 def parse(file_name):
 	instr = ""
 	cmds = []

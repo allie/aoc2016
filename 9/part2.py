@@ -1,5 +1,3 @@
-import re
-
 def get_dims(text):
 	close = text.find(")")
 	cmd = text[1:close].split("x")
